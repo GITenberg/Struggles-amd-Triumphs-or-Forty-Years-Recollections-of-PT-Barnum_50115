@@ -1,10 +1,16 @@
 _repo: Struggles-amd-Triumphs-or-Forty-Years-Recollections-of-PT-Barnum_50115
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50115-h/images/cover.jpg
 creator:
   author:
     agent_name: Barnum, Phineas. T.
     gutenberg_agent_id: '45708'
     url: http://www.gutenberg.org/2009/agents/45708
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50115#Struggles-amd-Triumphs-or-Forty-Years-Recollections-of-PT-Barnum
 gutenberg_issued: '2015-10-02'
 gutenberg_type: Text
 identifiers:
